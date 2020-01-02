@@ -1,0 +1,1 @@
+pdfimages -png aquivo.pdf ./
